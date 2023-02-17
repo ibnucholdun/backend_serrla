@@ -21,10 +21,10 @@
     "dialect": "mysql",
 
     "MYSQLDATABASE": "railway",
-    "MYSQLHOST": "containers-us-west-104.railway.app",
-    "MYSQLPASSWORD": "AJe4ogI1ueO1AdGGD3pL",
-    "MYSQLPORT": "6361",
+    "MYSQLHOST": "containers-us-west-161.railway.app",
+    "MYSQLPASSWORD": "AgxK1oMXAftU9N1RBCjm",
+    "MYSQLPORT": "6615",
     "MYSQLUSER": "root",
-    "MYSQL_URL": "mysql://root:AJe4ogI1ueO1AdGGD3pL@containers-us-west-104.railway.app:6361/railway"
+    "MYSQL_URL": "mysql://root:AgxK1oMXAftU9N1RBCjm@containers-us-west-161.railway.app:6615/railway"
   }
 }
